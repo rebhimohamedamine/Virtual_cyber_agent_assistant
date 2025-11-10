@@ -20,12 +20,19 @@ The system leverages intelligent agents and predefined workflows to assist cyber
 Virtual_cyber_agent_assistant/
 │
 ├── Main_workflow_Crewai(6).json # Main orchestration of cyber agent workflows
+
 ├── Starting_Front.json # Front-end or entry point configuration
+
 ├── Insert_into__KB(3).json # Knowledge base insertion process
+
 ├── DevSecOps_Expert.json # Workflow for DevSecOps automation
+
 ├── Compliance_Officer.json # Workflow for compliance management
+
 ├── Identity_Access_Management.json # IAM workflow
+
 ├── Risk_Management.json # Risk analysis and mitigation process
+
 └── ... (other specialized workflows)
 
 yaml
